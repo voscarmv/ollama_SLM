@@ -1,0 +1,27 @@
+{
+  "name": "ollama_slm",
+  "version": "1.0.0",
+  "description": "Trying out Ollama on my ubuntu box",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voscarmv/ollama_SLM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/voscarmv/ollama_SLM/issues"
+  },
+  "homepage": "https://github.com/voscarmv/ollama_SLM#readme",
+  "dependencies": {
+    "@langchain/community": "^0.3.46",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
